@@ -14,6 +14,7 @@ app.use(express.static(path.join(__dirname, 'public')))
   let person = {
     name: "平井湊",
     nickname: "湊",
+
     zodiac:"おひつじ座",
     birthday: "3.23",
   };
